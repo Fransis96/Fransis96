@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 **Fransis96/Fransis96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,3 +12,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+# Hi there! 👋
+
+I'm [Nama Kamu], a lifelong learner currently working as a [Posisi Kamu] at [Nama Perusahaan Kamu].
+
+## Tools I Use
+- **Editor**: Visual Studio Code
+- **OS**: MacOS
+
+## Projects
+- [Proyek 1](link)
+- [Proyek 2](link)
+
+## Let's Connect!
+- [Twitter](link)
+- [Instagram](link)
+- [Email](mailto:youremail@example.com)
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
