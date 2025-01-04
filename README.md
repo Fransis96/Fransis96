@@ -46,4 +46,4 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fransis96&show_icons=true&hide_border=true)
 
 ## Fun Fact
-⚡ Saya suka mencoba teknologi baru dan bersemangat untuk berbagi pengetahuan saya dengan komunitas.
+⚡ Suka mencoba teknologi baru dan bersemangat untuk berbagi pengetahuan saya dengan komunitas.
