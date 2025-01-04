@@ -18,11 +18,11 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: Fransis96
-          gif_out_path: dist/snake.gif
+          outputs: dist/snake.svg
 
       - name: Push Snake Game to GitHub
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          branch: main
+          branch: output
           force: true
