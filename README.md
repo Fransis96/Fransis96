@@ -20,11 +20,16 @@ Here are some ideas to get you started:
 Selamat datang di akun github saya.
 
 ## Tools I Use
-- **Editor**: ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white), ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white), TextPad, Notepad++
-- **Data Analysis & Machine Learning**: ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white), Pandas, Apache Spark, NLP
-- **Version Control**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), Kotlin
-- **OS**: ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+- **Editor**:  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white), ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white), TextPad, Notepad++
+- **Data Analysis & Machine Learning**:  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white), Pandas, Apache Spark, NLP
+- **Version Control**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Languages**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), Kotlin
+- **OS**:  
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## Projects
