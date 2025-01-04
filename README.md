@@ -46,4 +46,4 @@ Selamat datang di akun GitHub saya. Saya [Nama Kamu], seorang pengembang dengan 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
 ## Fun Fact
-⚡ Fun fact: Saya selalu suka mencoba teknologi baru dan bersemangat untuk berbagi pengetahuan saya dengan komunitas.
+⚡ Saya suka mencoba teknologi baru dan bersemangat untuk berbagi pengetahuan saya dengan komunitas.
