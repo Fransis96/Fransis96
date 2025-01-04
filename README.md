@@ -38,7 +38,7 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 - Belum ada!
 
 ## Media Sosial
-- [Linkedin]([link](https://www.linkedin.com/in/fransiskus-agustinus-tekege-07b818328/))
+- [Linkedin](https://www.linkedin.com/in/fransiskus-agustinus-tekege-07b818328/)
 - [Instagram](link)
 - [Email](fransiskus.agustinus@students.utdi.ac.id)
 
