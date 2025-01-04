@@ -3,7 +3,7 @@ description: "Generates a snake game from a github user contributions grid. Outp
 author: "platane"
 
 runs:
-  using: node20
+  using: 'node20'
   main: dist/index.js
 
 inputs:
@@ -20,11 +20,11 @@ inputs:
       list of files to generate.
       one file per line. Each output can be customized with options as query string.
 
-       supported query string options:
+      supported query string options:
 
       - palette:      A preset of color, one of [github, github-dark, github-light]
       - color_snake:  Color of the snake
-      - color_dots:   Coma separated list of dots color. 
+      - color_dots:   Comma separated list of dots color.
                       The first one is 0 contribution, then it goes from the low contribution to the highest.
                       Exactly 5 colors are expected.
 
