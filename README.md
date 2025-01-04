@@ -21,7 +21,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransis96&show_icons=true&locale=en&layout=compact" alt="fransis96" />
 
 <br>
 
