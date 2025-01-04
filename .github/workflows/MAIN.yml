@@ -22,21 +22,24 @@ jobs:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v3
 
-      # Generates the snake
+      # Generates the snake  
       - uses: Platane/snk@main
         id: snake-gif
         with:
           github_user_name: Fransis96
 
+      # Show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+
       # Upload the generated snake as an artifact
       - name: Upload Snake GIF
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-gif
           path: dist/github-contribution-grid-snake.gif
 
       - name: Upload Snake SVG
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-svg
           path: dist/github-contribution-grid-snake.svg
