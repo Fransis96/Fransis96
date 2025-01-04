@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -27,9 +27,11 @@ jobs:
           curl -O https://raw.githubusercontent.com/Platane/snk/main/snake.py
           python snake.py --username Fransis96 --output dist/snake.svg
 
-      - name: Push Snake Game to GitHub
-        uses: actions/upload-artifact@v2
+      - name: Upload Snake Game
+        uses: actions/upload-artifact@v3
         with:
           name: snake-game
           path: dist/snake.svg
-### Edit
+
+
+## Edit
