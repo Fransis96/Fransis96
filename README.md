@@ -32,7 +32,7 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 - Sementara belum ada!
 
 ## Pembelajaran saat ini
-- Saat ini sedang mempelajari NPL untuk meningkatkan keterampilan saya dalam Machine Learning.
+- Saat ini sedang mempelajari NPL untuk meningkatkan keterampilan dalam Machine Learning.
 
 ## Kolaborasi
 - Belum ada!
