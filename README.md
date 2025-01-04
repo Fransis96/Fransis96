@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
+# Halo! 👋
 
-I'm [Fransiskus], a lifelong learner currently working as a [Posisi Kamu] at [Nama Perusahaan Kamu].
+Selamat datang di akun gitgub saya.
 
 ## Tools I Use
 - **Editor**: Visual Studio Code
