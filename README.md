@@ -12,7 +12,7 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 - **Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 - **OS**:  
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white), ![Ubuntu](https://img.shields.io/badge/Ubuntu-dc3b08?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white), ![Ubuntu](https://img.shields.io/badge/ubuntu22.04-dc3b08?style=for-the-badge&logo=windows&logoColor=white)
 - **Containerization**:  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - **CI/CD**:  
