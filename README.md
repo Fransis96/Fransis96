@@ -19,7 +19,7 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## Proyek yang pernah dikerjakan  
-- [Responsi Infrastruktur Big Data](https://github.com/Fransis96/ResponsiIBD-215410072) - Analisis Perbandingan Sentiment Content dan Sentiment Rating Menggunakan Spark dengan Jupyter Notebook
+- [Responsi Infrastruktur Big Data](https://github.com/Fransis96/ResponsiIBD-215410072) - Analisis Perbandingan Menggunakan Spark dengan Jupyter Notebook
 - [Project Kelompok](https://github.com/Fransis96/ProjectKelompok) - Membuat Aplikasi Sederhana menggunakan Android Studio.
 
 ## Docker Projects
