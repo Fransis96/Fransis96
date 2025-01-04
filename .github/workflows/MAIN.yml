@@ -33,7 +33,7 @@ jobs:
 
       # Push the changes
       - name: Commit and Push changes
-        uses: github-actions-x/commit@v2.6.2
+        uses: github-actions-x/commit@v2.9
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           branch: main
