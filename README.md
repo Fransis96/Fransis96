@@ -1,6 +1,6 @@
 # Halo! 👋
 
-Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa aktif di Universitas Teknologi Digital Indones, Yogyakarta. Jursan Informatika, Semeter 5 dan mencoba tuk fokus di NLP.
+Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa aktif di Universitas Teknologi Digital Indonesia (UTDI), Yogyakarta. Saya mengambil Jurusan Informatika dan saat ini berada di Semester 5. Saat ini, saya sedang berfokus pada bidang Natural Language Processing (NLP).
 
 ## Tools yang saya gunakan
 - **Editor**:  
