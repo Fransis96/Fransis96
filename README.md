@@ -1,6 +1,6 @@
 # Halo! 👋
 
-Selamat datang di akun GitHub saya. Saya [Nama Kamu], seorang pengembang dengan passion besar dalam [bidangmu]. Di sini, kamu bisa menemukan berbagai proyek yang saya kerjakan, mulai dari pengembangan aplikasi hingga analisis data.
+Selamat datang di akun GitHub saya. Saya Fransiskus, seorang mahasiswa di Universitas Teknologi Digital Indones, Yogyakarta (Mahasiswa aktif). Jursan Informatika, Semeter 5. Fokus saya di NPL.
 
 ## Tools yang saya gunakan
 - **Editor**:  
