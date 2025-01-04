@@ -25,8 +25,8 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 ## Docker Projects
 - **My Docker Hub**: [Docker Hub Profile](https://hub.docker.com/u/fransis96)
 - **Projects**:
-- [Work FLow](https://hub.docker.com/r/fransis96/workflows215410072) - Build dan Push docker image menggunakan action github
-- [Web Statis](https://hub.docker.com/r/fransis96/cloud215410072) - Build image web-statis
+  - [Work FLow](https://hub.docker.com/r/fransis96/workflows215410072) - Build dan Push docker image menggunakan action github
+  - [Web Statis](https://hub.docker.com/r/fransis96/cloud215410072) - Build image web-statis
 
 ## Saat ini sedang dikerjakan
 - Sementara belum ada!
