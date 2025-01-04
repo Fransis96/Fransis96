@@ -6,8 +6,6 @@
 
 ## Languages and Tools:  
 
-## Tools yang saya gunakan
-- **Editor**:  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![TextPad](https://img.shields.io/badge/TextPad-0078D4?style=for-the-badge&logo=textpad&logoColor=white)
