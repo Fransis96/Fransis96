@@ -29,18 +29,18 @@ Selamat datang di akun GitHub saya. Saya [Nama Kamu], seorang pengembang dengan 
   - [Project 2](link) - Deskripsi singkat tentang proyek kedua.
 
 ## Saat ini sedang dikerjakan
-- Saya sedang mengerjakan [nama proyek saat ini] yang bertujuan untuk [deskripsi tujuan proyek].
+- Sementara belum ada!
 
 ## Pembelajaran saat ini
-- Saat ini saya sedang mempelajari [nama teknologi atau bahasa] untuk meningkatkan keterampilan saya dalam [area tertentu].
+- Saat ini saya sedang mempelajari NPL untuk meningkatkan keterampilan saya dalam Machine Learning.
 
 ## Kolaborasi
-- Saya mencari kolaborasi pada proyek [deskripsi proyek kolaborasi yang kamu cari].
+- Belum ada!
 
 ## Media Sosial
-- [Twitter](link)
+- [Linkedin]([link](https://www.linkedin.com/in/fransiskus-agustinus-tekege-07b818328/))
 - [Instagram](link)
-- [Email](mailto:youremail@example.com)
+- [Email](fransiskus.agustinus@students.utdi.ac.id)
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
