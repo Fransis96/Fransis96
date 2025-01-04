@@ -26,9 +26,7 @@
 <br>
 
 ### Media Sosial
-- [Twitter](link)
-- [Instagram](link)
-- [Email](mailto:youremail@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourusername) [![Instagram](https://img.shields.io/badge/Instagram-ff3375?style=for-the-badge&logo=Instagram&logoColor=pink)](https://instagram.com/yourusername) [![Email](https://img.shields.io/badge/Email-ff3375?style=for-the-badge&logo=gmail&logoColor=pink)](https://instagram.com/yourusername) 
 
 
  <!--<p>
