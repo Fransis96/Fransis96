@@ -26,7 +26,7 @@
 <br>
 
 ### Sisial Media: 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fransis96) [![Instagram](https://img.shields.io/badge/Instagram-ff3375?style=for-the-badge&logo=Instagram&logoColor=pink)](https://instagram.com/fransis96) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red)](https://instagram.com/fransis96) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fransis96)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fransis96) [![Instagram](https://img.shields.io/badge/Instagram-ff3375?style=for-the-badge&logo=Instagram&logoColor=pink)](https://instagram.com/fransis96) [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red)](https://instagram.com/fransis96) [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fransis96)
 
 
  <!--<p>
