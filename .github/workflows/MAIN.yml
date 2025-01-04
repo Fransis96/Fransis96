@@ -13,16 +13,9 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Run Snake Game Action
+        uses: ./action.yml
         with:
-          node-version: '20'
-
-      - name: Generate Snake Game
-        run: node dist/index.js --username Fransis96 --output dist/snake.svg
-
-      - name: Upload Snake Game
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-game
-          path: dist/snake.svg
+          github_user_name: Fransis96
+          outputs: |
+            snake.svg?palette=github&color_snake=blue
