@@ -4,7 +4,7 @@ Selamat datang di akun GitHub saya. Saya Fransiskus, seorang mahasiswa di Univer
 
 ## Tools yang saya gunakan
 - **Editor**:  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white), ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white), ![TextPad](https://img.shields.io/badge/TextPad-0078D4?style=for-the-badge&logo=textpad&logoColor=white), ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white), ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white), ![TextPad](https://img.shields.io/badge/TextPad-0078D4?style=for-the-badge&logo=textpad&logoColor=white), ![Notepad++](https://img.shields.io/badge/Notepad++-7eff25?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)  
 - **Data Analysis & Machine Learning**:  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white), ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white), Natural Language Processing (NLP)  
 - **Version Control**:  
