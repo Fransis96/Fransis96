@@ -12,18 +12,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Generate Snake Animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: Fransis96
           outputs: dist/snake.svg
 
-      # Push the generated animation to the repository
       - name: Push Snake Animation
         run: |
           git config --global user.name "Fransis96"
