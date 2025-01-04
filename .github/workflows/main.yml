@@ -22,7 +22,7 @@ jobs:
         with:
           # Tentukan file SVG output
           github_user_name: Fransis96
-          output: svg
+          outputs: svg
 
       # 3. Perbarui file di repositori
       - name: Commit and Push
