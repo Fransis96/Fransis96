@@ -47,3 +47,7 @@ Selamat datang di akun GitHub saya. Nama saya Fransis, saya seorang mahasiswa ak
 
 ## Fun Fact
 ⚡ Suka mencoba teknologi baru dan bersemangat untuk berbagi pengetahuan saya dengan komunitas.
+
+<hr></hr>
+
+![GitHub Contribution Snake](./assets/github-contribution-grid-snake.gif)
