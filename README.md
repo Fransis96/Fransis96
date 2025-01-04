@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Halo! 👋
 
-Selamat datang di akun gitgub saya.
+Selamat datang di akun github saya.
 
 ## Tools I Use
 - **Editor**: Visual Studio Code
