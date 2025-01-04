@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm [Nama Kamu], a lifelong learner currently working as a [Posisi Kamu] at [Nama Perusahaan Kamu].
+I'm [Fransiskus], a lifelong learner currently working as a [Posisi Kamu] at [Nama Perusahaan Kamu].
 
 ## Tools I Use
 - **Editor**: Visual Studio Code
