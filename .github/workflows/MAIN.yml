@@ -19,9 +19,7 @@ jobs:
           node-version: '20'
 
       - name: Generate Snake Game
-        run: |
-          curl -O https://raw.githubusercontent.com/Platane/snk/main/snake.js
-          node snake.js --username Fransis96 --output dist/snake.svg
+        run: node dist/index.js --username Fransis96 --output dist/snake.svg
 
       - name: Upload Snake Game
         uses: actions/upload-artifact@v3
