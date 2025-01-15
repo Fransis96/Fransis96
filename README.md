@@ -45,7 +45,7 @@
   <a href="https://stackoverflow.com/users/27470695" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-ffc896?logo=stack-overflow&logoColor=white" alt="Stackoverflow">
   </a>
-  <a href="https://twitch.tv/@fransis_96" target="_blank">
+  <a href="[https://twitch.tv/@fransis_96](https://x.com/fransis_96)" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-c299ff.svg?logo=Twitch&logoColor=white" alt="Twitch">
   </a>
   <a href="https://instagram.com/fransis_96" target="_blank">
