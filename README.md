@@ -55,13 +55,11 @@
   </a>
 </p>
 
-
-
-
  <!--<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fransis96&" alt="fransis96" />
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransis96&show_icons=true&locale=en&layout=compact" alt="fransis96" />
---></p>
+ </p> -->
+
 <hr></hr>  
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransis96&show_icons=true&locale=en" alt="fransis96" /></p> -->
 <p align="center">
