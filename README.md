@@ -5,6 +5,7 @@
 
 <hr></hr>
 
+<!-- Yang sedang dipelajari -->
 <h1 align="center"> 
  Learning <br>
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" width="250" alt="Coding Animation">
@@ -33,6 +34,7 @@
 </p>
 
 
+<!-- Sosial Media -->
 
 <h2 align="center"> 🌐 Sosial Media </h2>
 <p align="center">
@@ -69,4 +71,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
  </picture>
 </p>
-
