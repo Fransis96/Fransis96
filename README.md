@@ -8,7 +8,7 @@
 <!-- Yang sedang dipelajari -->
 <h1 align="center"> 
  Learning <br>
- <img src="https://raw.githubusercontent.com/Fransis96/src/main/img/gif/git.gif" height="150" width="250" alt="Coding Animation">
+ <img src="https://imgur.com/a/HznYFcP" height="150" width="250" alt="Coding Animation">
  <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
