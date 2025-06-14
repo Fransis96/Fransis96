@@ -3,10 +3,6 @@
 <!-- SVG TYPING -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Fransis;I+am+a+student+from+UTDI;I+love+sharing+knowledge+📚;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
-<p align="center">  </p>
-
-<hr></hr>
-
 <!-- Yang sedang dipelajari -->
 <h1 align="center"> 
  Learning <br>
@@ -22,37 +18,38 @@
 </p>
 </h1>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fransis96&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
-
-
 <!-- Sosial Media -->
 
-<h2 align="center"> 🌐 Sosial Media </h2>
-<p align="center">
-  <a href="https://web.facebook.com/FAT.theNineties/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
+<h3 align="center">📱 Media Sosial</h3>
+
+<div align="center">
   <a href="https://linkedin.com/in/fransis96/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://stackoverflow.com/users/27470695" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-ffc896?logo=stack-overflow&logoColor=white" alt="Stackoverflow">
-  </a>
-  <a href="https://x.com/fransis_96" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://facebook.com/fransis_96" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://instagram.com/fransis_96" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+  <a href="https://x.com/fransis_96" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+  </a>
+</div>
 
- <!--<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fransis96&" alt="fransis96" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fransis96&show_icons=true&locale=en&layout=compact" alt="fransis96" />
- </p> -->
+<h3 align="center">👥 Komunitas & Forum</h3>
 
+<div align="center">
+  <a href="https://stackoverflow.com/users/27470695" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://discord.gg/wdAFRCy5" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
+
+ 
 <hr></hr>  
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransis96&show_icons=true&locale=en" alt="fransis96" /></p> -->
 <p align="center">
