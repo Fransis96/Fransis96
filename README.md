@@ -1,7 +1,7 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 <!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Fransis;I+am+a+student+from+UTDI;I+love+sharing+knowledge+📚;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hai%2C+Saya+Fransis!;Seorang+mahasiswa+pencinta+koding.%2C;Ayo+Ngobar...)](https://git.io/typing-svg)
 
 <!-- Yang sedang dipelajari -->
 <h1 align="center"> 
