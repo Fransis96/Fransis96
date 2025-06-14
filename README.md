@@ -8,7 +8,7 @@
 <!-- Yang sedang dipelajari -->
 <h1 align="center"> 
  Learning <br>
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" width="250" alt="Coding Animation">
+ <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1RVRtSpvsDSsLg8e5a7rwI&ust=1750006194893000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCODm_Kev8Y0DFQAAAAAdAAAAABCqAQ)" height="150" width="250" alt="Coding Animation">
  <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
