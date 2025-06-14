@@ -1,14 +1,16 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
-<h1 align="center"> Hi 👋, I'm Fransis </h1> 
 
-<p align="center"> A Student from UTDI </p>
+<!-- SVG TYPING -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Fransis;I+am+a+student+from+UTDI;I+love+sharing+knowledge+📚;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+
+<p align="center">  </p>
 
 <hr></hr>
 
 <!-- Yang sedang dipelajari -->
 <h1 align="center"> 
  Learning <br>
- <img src="https://imgur.com/a/HznYFcP" height="150" width="250" alt="Coding Animation">
+ <img src="https://github.com/Fransis96/src/blob/main/img/gif/git.gif" width="250" alt="Coding Animation">
  <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
