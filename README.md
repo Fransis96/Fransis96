@@ -35,6 +35,10 @@
   <a href="https://x.com/fransis_96" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
   </a>
+  <a href="https://learn.microsoft.com/en-us/users/fransis96/" target="_blank">
+   <img src="https://img.shields.io/badge/Microsoft%20Learn-2B579A?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn">
+  </a>
+ 
 </div>
 
 <h3 align="center">👥 Komunitas & Forum</h3>
