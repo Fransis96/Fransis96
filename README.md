@@ -1,7 +1,7 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 <!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hai%2C+Saya+Fransis!;Seorang+mahasiswa+pencinta+koding.%2C;Ayo+Ngobar...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hai%2C+Saya+Fransis!;Apa+kalian+suka+coding?;Ayo+Ngobar...)](https://git.io/typing-svg)
 
 <!-- Yang sedang dipelajari -->
 <h1 align="center"> 
@@ -20,7 +20,7 @@
 
 <!-- Sosial Media -->
 
-<h3 align="center">📱 Media Sosial</h3>
+<h3 align="center"> <img src="https://www.svgrepo.com/show/451521/contact-new.svg" width="25"/> Sosial Media Media Sosial</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/fransis96/" target="_blank">
@@ -41,7 +41,7 @@
  
 </div>
 
-<h3 align="center">👥 Komunitas & Forum</h3>
+<h3 align="center"><img src="https://www.svgrepo.com/show/32639/talking.svg" width="25"/> Komunitas & Forum</h3>
 
 <div align="center">
   <a href="https://stackoverflow.com/users/27470695" target="_blank">
@@ -56,6 +56,9 @@
  
 <hr></hr>  
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fransis96&show_icons=true&locale=en" alt="fransis96" /></p> -->
+
+<h2 align="center"><img src="https://www.svgrepo.com/show/270127/reader-book.svg" width="25"/> Kontribusi</h2>   
+
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
