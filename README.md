@@ -62,19 +62,12 @@
 <p align="center">
   <!-- Pilihan palette: ganti URL sesuai palette -->
   
-  <!-- 1️⃣ Default GitHub (light + dark auto) -->
+  <!-- Default GitHub (light + dark auto) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/ocean.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/ocean.svg" />
   </picture>
-
-  <!-- 2️⃣ Neon Blue (paksa dark/light) -->
-  <!-- Gunakan hanya satu <img> jika ingin paksa palette tertentu -->
-  <!-- <img alt="Neon Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/neon-snake-dark.svg" /> -->
-
-  <!-- 3️⃣ Dracula (paksa tampil Dracula) -->
-  <!-- <img alt="Dracula Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/dracula-snake-dark.svg" /> -->
 </p>
 
 
