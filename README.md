@@ -61,8 +61,11 @@
 
 <p align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <!-- Dark mode neon blue -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/neon-snake-dark.svg" />
+  <!-- Light mode neon blue -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/neon-snake.svg" />
+  <!-- fallback / default -->
+  <img alt="GitHub Neon Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/neon-snake.svg" />
  </picture>
 </p>
