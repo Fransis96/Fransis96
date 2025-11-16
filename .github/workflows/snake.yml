@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake (Neon Blue)
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # update setiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,8 +15,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/neon-snake.svg?palette=matrix
+            dist/neon-snake-dark.svg?palette=matrix
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
