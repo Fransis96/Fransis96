@@ -1,4 +1,4 @@
-name: Generate Snake (Neon Blue)
+name: Generate-Snakes
 
 on:
   schedule:
@@ -15,8 +15,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
             dist/neon-snake.svg?palette=matrix
             dist/neon-snake-dark.svg?palette=matrix
+            dist/dracula-snake.svg?palette=dracula
+            dist/dracula-snake-dark.svg?palette=dracula
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
