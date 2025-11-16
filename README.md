@@ -65,8 +65,8 @@
   <!-- Default GitHub (light + dark auto) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/black.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/black.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fransis96/Fransis96/output/white.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Fransis96/Fransis96/output/white.svg" />
   </picture>
 </p>
 
