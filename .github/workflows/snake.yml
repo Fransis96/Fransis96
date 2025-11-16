@@ -1,4 +1,4 @@
-name: Generate-Snakes
+name: Generate_Snake
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.svg?color_snake=#ff004b&color_dots=#cdcce2,#9c99c6,#6b66a9,#3a338d,#090071
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
