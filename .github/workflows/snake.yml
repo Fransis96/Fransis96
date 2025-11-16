@@ -21,6 +21,7 @@ jobs:
             dist/costume01.svg?color_snake=#090084&color_dots=#f6ecff,#deb6ff,#c67fff,#ae48ff,#8e00ff
             dist/blue.svg?color_snake=#0e00c7&color_dots=#cce7ff,#99d0ff,#66b8ff,#339fff,#0077cc
             dist/navi.svg?color_snake=#2f5d80&color_dots=#a0fffb,#71d1f1,#4792e3,#2146d5,#0d00c7
+            dist/green_white.svg?color_snake=#00ff03&color_dots=#464646,#747474,#a2a2a2,#d0d0d0,#ffffff
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
