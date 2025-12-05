@@ -1,4 +1,4 @@
-name: Generate_Snake_Golden
+name: CostumeSnake
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/golden.svg?color_snake=#d27800&color_dots=#fff2cc,#ffe199,#ffcf66,#ffbd33,#ffaa00
+            dist/golden.svg?color_snake=#2a1200&color_dots=#ebedf0,#ffdfb3,#ffaa33,#ff8800,#cc5500
             
 
       - uses: crazy-max/ghaction-github-pages@v3
